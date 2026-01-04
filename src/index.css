@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;body{font-family:Inter,sans-serif;} .card{background:white;padding:1rem;border-radius:14px;box-shadow:0 6px 20px rgba(0,0,0,0.06);} .btn{padding:.6rem 1rem;border-radius:8px;} .btn-primary{background:#0ea5a4;color:white;}
